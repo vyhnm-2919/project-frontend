@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  margin: 1rem;
+}
+
+.apexcharts-toolbar {
+  position: absolute;
+  margin: 2rem;
+  padding: 0 !important;
+  top: -17% !important;
+}
